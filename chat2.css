@@ -1,0 +1,33 @@
+.bg-primary {
+  background-color: #4ecdc4;
+}
+.text-primary {
+  color: #4ecdc4;
+}
+.bg-secondary {
+  background-color: #ff6b6b;
+}
+.text-secondary {
+  color: #ff6b6b;
+}
+.font-lobster {
+  font-family: "Lobster", cursive;
+}
+.font-robot {
+  font-family: "Roboto", sans-serif;
+}
+.modal {
+  transition: opacity 0.25s ease;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
